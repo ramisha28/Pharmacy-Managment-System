@@ -1,0 +1,6 @@
+Order Details
+Customer Name: Tahreem
+Medication Name: Aspirin
+Quantity: 12
+Total Price: $47.88
+------------------------

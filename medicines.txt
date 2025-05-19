@@ -1,0 +1,6 @@
+Paracetamol 100 5.99 SAMI
+Ibuprofen 50 7.49 GSK
+Aspirin 75 3.99 DFEIW
+Cetirizine 30 9.99 XYZ
+Omeprazole 20 12.99 ABPharm
+hellomed 123 23 wed
